@@ -8,6 +8,7 @@ should be able to do most, if not all, of the actions required to consume any pu
 example open weather API or Random User Generator API, or traffic API etc.) below are
 
 some examples of the real-time APIs:
+
 i. Amazon Price
 
 ii. Fixer Currency
