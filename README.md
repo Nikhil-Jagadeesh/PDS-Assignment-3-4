@@ -9,12 +9,19 @@ example open weather API or Random User Generator API, or traffic API etc.) belo
 
 some examples of the real-time APIs:
 i. Amazon Price
+
 ii. Fixer Currency
+
 iii. TheRunDown
+
 iv. OpenAPI 1.2
+
 v. Zillow
+
 vi. Sportspage Feeds
+
 vii. Nexmo Number Insight
+
 viii. Google Shopping
 
 b. To display the data you may use python library Dash or some other library.
